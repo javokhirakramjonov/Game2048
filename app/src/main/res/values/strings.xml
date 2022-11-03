@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game2048</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score">score\n<b>0</b></string>
+    <string name="best">best\n<b>0</b></string>
+    <string name="game_over">Game Over!</string>
+    <string name="congratulations">congratulations</string>
+    <string name="play_again">Play Again</string>
+    <string name="undo">Undo</string>
+</resources>
